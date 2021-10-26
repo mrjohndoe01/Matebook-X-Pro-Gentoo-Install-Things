@@ -1,6 +1,8 @@
 # **Gentoo make.conf for Huawei MateBook X Pro**
 My personal make.conf file for Gentoo. I use it in my Huawei MateBook X Pro. 
 
+Note: I got the install_software.sh from https://github.com/MentalOutlaw. 
+
 | Device | Spec |
 | --- | --- |
 | CPU | Intel i5-10210U / Intel i7-10510U |
