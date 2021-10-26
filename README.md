@@ -5,7 +5,7 @@ My personal make.conf file for Gentoo. I use it in my Huawei MateBook X Pro.
 | --- | --- |
 | CPU | Intel i5-10210U / Intel i7-10510U |
 | iGPU | Intel UHD 620 |
-| dGPU | Nvidia MX250 (Disabled) |
+| dGPU | Nvidia MX250  |
 | WIFI / BT | Intel AC9560 |
 | SSD | 512GB WDC PC SN730 |
 | Audio | Realtek ALC256 (id=97) |
