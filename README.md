@@ -7,7 +7,7 @@ Note: I got the install_software.sh from https://github.com/MentalOutlaw.
 | --- | --- |
 | CPU | Intel i5-10210U / Intel i7-10510U |
 | iGPU | Intel UHD 620 |
-| dGPU | Nvidia MX250 (Disabled) |
+| dGPU | Nvidia MX250  |
 | WIFI / BT | Intel AC9560 |
 | SSD | 512GB WDC PC SN730 |
 | Audio | Realtek ALC256 (id=97) |
